@@ -5,7 +5,7 @@ Scrape Zillow recently sold properties for CMA reports, investment analysis, and
 **Run it on Apify:** [apify.com/themineworks/zillow-recently-sold](https://apify.com/themineworks/zillow-recently-sold)
 **Docs, FAQ and pricing:** [themineworks.com/actors/zillow-recently-sold](https://themineworks.com/actors/zillow-recently-sold/)
 
-**Price:** $2.00 per 1,000 properties on Apify's free plan, down to $1.00 on higher plans. Failed and empty results are never charged.
+**Price:** From $1.00 per 1,000 properties on Apify's higher plans ($2.00 on the free plan). Failed and empty results are never charged.
 
 ## What it returns
 
@@ -138,7 +138,7 @@ The soldInLast input supports 30, 90, 180, 365, and up to 730 days of sold histo
 
 ### What is the price?
 
-$0.001/property ($1 per 1,000). Nothing charged on failure.
+Pay per result: from $1.00 per 1,000 properties on Apify's higher plans, $2.00 on the free plan. Failed results are never charged.
 
 ### Can I export the results to CSV or Excel?
 
